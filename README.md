@@ -13,3 +13,7 @@
 - Nee
 #### 6. Aanbevelingen?
 - Gebruik maken van de beschikbare white space door CSS te implementeren. 
+
+##### GroepsLeden
+- Hans Hetzheim
+- El Mahdi Alajdi El Idrissi
